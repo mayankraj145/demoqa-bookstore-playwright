@@ -50,3 +50,4 @@ output/book-details.txt gets:
     src/data/     book title and credentials
     src/utils/    writes the output file
     tests/        bookstore.spec.js
+<img width="1396" height="506" alt="image" src="https://github.com/user-attachments/assets/d903c609-6170-4bef-a14f-f6a3b1fb1542" />
